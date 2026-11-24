@@ -1,6 +1,6 @@
 # RV32I
 
-Implement a simplified RV32I emulator. Define your own instruction enum, decode each fetched word into it, and execute the decoded instruction using pattern matching. Submit `main.rs`; use Rust 1.88 and the standard library.
+Implement a simplified RV32I emulator. Define your own instruction enum, decode each fetched word into it, and execute the decoded instruction using pattern matching. Submit `main.rs` and any additional source files you need. Use Rust 1.88 and the standard library.
 
 ## Input
 
